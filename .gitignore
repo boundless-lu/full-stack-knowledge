@@ -1,3 +1,4 @@
-.idea/vcs.xml
+.idea/
 java-basic/src/test/
 **/target/
+full-stack-knowledge.iml
